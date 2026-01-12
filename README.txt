@@ -1,4 +1,4 @@
-The idea for GitGuilt sparked as someone who loves starting new projects only to abandon them once a shinier, “more interesting” one comes along—or just when passion fizzles out. Will this be just another abandoned project, adding to the irony? Or will it finally be a complete project for once? Who knows. Either way, it’s here to gently poke you about your repos.
+The idea for GitGuilt sparked as someone who loves starting new projects only to abandon them once a new, “more interesting” one comes along—or just when passion dies out. Will this be just another abandoned project, adding to the irony? Or will it finally be a complete project for once? Who knows. Either way, let's mess around and find out.
 
 Features (ChatGPT suggested, I have nothing at the time of writing)
 Repo Tracking: Monitors your GitHub repositories for inactivity.
